@@ -6,7 +6,9 @@ II. Um excelente livro de raciocínio lógico. [Não é proposição por causa d
 III. O jogo terminou empatado? [Não é proposição, por causa da pergunta]]
 IV. João é professor de matemática. [É proposição.]
 V. Escreva uma poesia. [Não tem uma afirmação. Não é proposição]
+
 R1: IV é a única com proposição.
+
 
 2. A negação da proposição “Antônio passa na prova ou vai ao cinema em Novo Horizonte” é:
 a. Antônio não passa na prova.
@@ -14,4 +16,5 @@ b. Antônio não vai ao cinema em Novo Horizonte.
 c. Antônio não passa na prova ou não vai ao cinema em Novo Horizonte.
 d. Antônio não passa na prova e não vai ao cinema em Novo Horizonte.
 e. Se Antônio passa na prova, então vai ao cinema em Novo Horizonte.
+
 R2: d.
