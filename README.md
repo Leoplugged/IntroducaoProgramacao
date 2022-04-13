@@ -1,3 +1,5 @@
+##EXERCÍCIOS CONCLUÍDOS.
+
 ### Exercícios sobre LÓGICA
 
 ##### 1. Das cinco frases abaixo, quatro delas não são proposições.
@@ -32,7 +34,3 @@
 _Obs: a média de aprovação é 7._
 
 Ao final subir a lista de respostas dos exercícios sobre lógica, algoritmos e os fluxogramas(foto, ou arquivo baixado a partir do programa utilizado) para um repositório(com descrição no arquivo README.md) chamado IntroducaoProgramacao e enviar o link do repositório com as respostas para jessica.correa@zup.com.br
-
-. 2 atividades sobre Lógica;
-. 3 atividades sobre Algoritmos; (2 atividades pendentes)
-. 6 atividades sobre Fluxograna. (1 atividade pendente)
