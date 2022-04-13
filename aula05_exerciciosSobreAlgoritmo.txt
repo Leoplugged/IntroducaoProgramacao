@@ -1,0 +1,81 @@
+EXERCÍCIOS SOBRE ALGORITMOS
+
+:: 1. Faça um algoritmo para fazer café: ::
+1. Checa se temos todos os itens abaixo:
+a. Energia Elétrica.
+b. Café moído.
+c. Canela em pó.
+d. Água filtrada.
+e. Cafeteira completa e limpa.
+f. Colher de sopa.
+g. Colher de chá.
+h. Espaço para preparo de café.
+2. Falso
+2.a. Vá à padaria.
+2.b. Compra os itens faltantes.
+2.c. Finaliza operação.
+3. Verdadeiro
+3.a Pega 300ml de água.
+3.b Encha reservatório da cafeteira com água.
+3.c Pega 4 colheres de sopa cheias de café.
+3.d Coloca café no coador de alumínio da cafeteira.
+3.e Pega uma colher de chá rasa de canela em pó.
+3.f Coloca canela no coador de alúminio da cafeteira.
+3.g Mistura o conteúdo do coador com ajuda da colher.
+3.h Liga a cafeteira na tomada.
+3.i Aguardar o alerta de finalização da cafeteira.
+3.j Finaliza.
+
+
+:: 2. Faça um algoritmo para fazer compras de remédios: ::
+1. Verificar se é preciso do Receituário Médico.
+1.a.I Caso precise, agendar consulta com médico.
+1.a.II Ir à consulta.
+1.a.III Obter Receituário Médico.
+1.a.IV Ir à Farmácia.
+1.b. Caso não precise, ir à Farmácia.
+2. Verificar se farmácia possuí medicamento.
+2.a I Caso possua, comprar.
+2.b Caso não possua, procurar outra fármácia.
+2.c Repetir essa operação até que o medicamento seja localizado.
+3. Finaliza.
+
+:: 3. Faça um algoritmo para fazer um bolo de chocolate: ::
+Obs.: Será feito panqueca em vez de bolo de chocolate, por conta da maior afinidade.
+
+1. Checar se há todos ingredientes para a Massa:
+1.a 200g de queijo coalho ralado
+1.b 50g de queijo minas ralado
+1.c 4 ovos
+1.d 4 colheres de manteiga derretida (de garrafa, da terra...)
+1.e sal a gosto
+1.f 2 xícaras de leite
+1.g 4 xícaras de polvilho azedo
+1.A Ingredientes faltantes, colocar na lista de compras.
+
+2. Checar se há todos ingredientes para a Cobertura:
+2.a 1 lata de leite condensado
+2.b colher de cacau em pó
+2.c banana picada
+2.d folhas frescas de hortelã
+2.A Ingredientes faltantes, colocar na lista de compras.
+
+3. Checar se há compras a fazer da Lista de Compras.
+3.a Se sim, comprar até que tenha todo conteúdo para fazer tal receita;
+3.b Senão, prosseguir para o Passo-a-Passo.
+
+4. Preparando a Massa::..
+4.a ralar os queijos no ralo grosso para sentir gosto de puxa-puxa.
+4.b juntar os ovos, a manteiga derretida e picadinha de sal na mistura.
+4.c adicionar leite na mistura aos poucos para ir vendo o ponto.
+4.d adicionar o polvilho aos poucos.
+4.e colocar massa na frigideira pré aquecida na temperatura máxima até dourar nos dois lados. (ter crocância apenas por fora e aparência quase torrada)
+
+5. Preparando a Cobertura
+5.a cozinhar por 40min na panela de pressão, com a lata e tudo.
+5.b adicionar cacau em pó ao doce de leite e misture bem.
+5.c cobrir as panquecas com doce de leite.
+5.d adicionar banana picada por cima das panquecas.
+5.e adicionar folha de hortelã.
+
+6. Finaliza

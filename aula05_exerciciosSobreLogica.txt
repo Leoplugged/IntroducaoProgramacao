@@ -15,5 +15,3 @@ c. Antônio não passa na prova ou não vai ao cinema em Novo Horizonte.
 d. Antônio não passa na prova e não vai ao cinema em Novo Horizonte.
 e. Se Antônio passa na prova, então vai ao cinema em Novo Horizonte.
 R2: d.
-
-EXERCÍCIOS SOBRE ALGORITMOS
